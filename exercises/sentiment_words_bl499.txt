@@ -1,0 +1,10 @@
+word=exciting intensity=strong polarity=positive
+word=fantastic intensity=strong polarity= positive
+word=like intensity=weak polarity= positive
+word=enjoy intensity=strong polarity=positive
+word=acceptable intensity=weak polarity= positive
+word=boring intensity=strong polarity=negative
+word=dry intensity=strong polarity= negative
+word=improve intensity=weak polarity=negative
+word=poison intensity=strong polarity= negative
+word=weird intensity=weak polarity=negative
