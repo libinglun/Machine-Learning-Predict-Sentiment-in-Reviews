@@ -18,7 +18,7 @@ def nuanced_class_log_probabilities(training_data: List[Dict[str, Union[List[str
     """
     cnt_pos = 0
     cnt_neg = 0
-    cnt_neu = 0
+    cnt_neu = 0         # add new neutral class
     for review in training_data:
         if review['sentiment'] == 1:
             cnt_pos += 1
